@@ -9,6 +9,10 @@ This thesis investigates the effectiveness of implementing CNN and UNet architec
 
 The performance of these methods is assessed using metrics such as average inter-beat interval (IBI) error and root mean square error (RMSE) on test data. The results provide insights into the effectiveness of deep learning techniques in accurately measuring heart rate through reconstructed heart signals. The study also presents a detailed analysis of relevant parameters and evaluation metrics to guide future research in contactless heart rate measurement.
 
-## Scope of Thesis
+## Scope of the Thesis
 
 This thesis explores the integration of CNN and UNet architectures into a signal processing framework for reconstructing ECG signals from radar data, facilitating precise heart rate estimation. The study utilizes two datasets: a publicly accessible vital signs dataset [5] and an in-house FMCW radar dataset from VTT Technical Research Centre, Finland. Evaluation of the study's outcomes is conducted using metrics such as average interbeat interval (IBI) and root mean square error (RMSE). Furthermore, the results are benchmarked against previous state-of-the-art deep learning models and associated performance metrics.
+
+## Objective of the Thesis
+
+The objective of this thesis is to assess the possibility of effectively translating radar signals to closely resemble reference ECG signals, achieved through an exploration of the intrinsic physiological connection between these signal types. This study employs deep learning techniques such as convolutional neural networks (CNN) and UNet architectures to establish a mapping between radar and ECG signals, facilitating precise estimation of heart rate.
