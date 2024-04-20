@@ -1,2 +1,2 @@
-# RECONSTRUCTING-ECG-SIGNAL-FROM-RADAR-SIGNAL-USING-DEEP-LEARNING-TECHNIQUES
+# Reconstructing-ECG-From-RADAR-Signal-using-Deep-Learning-Techniques
 Radar-to-ECG Signal Reconstruction using Deep Learning for Heart Rate Estimation
