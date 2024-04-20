@@ -16,3 +16,13 @@ This thesis explores the integration of CNN and UNet architectures into a signal
 ## Objective of the Thesis
 
 The objective of this thesis is to assess the possibility of effectively translating radar signals to closely resemble reference ECG signals, achieved through an exploration of the intrinsic physiological connection between these signal types. This study employs deep learning techniques such as convolutional neural networks (CNN) and UNet architectures to establish a mapping between radar and ECG signals, facilitating precise estimation of heart rate.
+
+## Conclusion
+
+This thesis investigated the utilization of CNN and UNet architectures for converting radar signals into ECG signals to accurately estimate heart rates. The principal findings indicate that the CNN architecture yielded superior results with the least average IBI error and root mean square error (RMSE) values when estimating heart rates from radar signals using the guardian vital signs dataset. Specifically, the CNN approach demonstrated substantial performance enhancements compared to the UNet architecture, assessed through MSE training evaluation metric and representation of reference ECG signals in triangular waveform.
+
+The significance of this study lies in advancing an effective deep learning-based technique for signal translation, applicable to analogous signal processing challenges. Additionally, the proposed method offers a non-contact alternative to ECG sensors for heart rate estimation, beneficial for remote monitoring and healthcare applications, even in noisy and distorted signal environments.
+
+Nonetheless, certain limitations should be addressed in future research. Firstly, the study's datasets were confined to a small number of participants. Secondly, the efficacy of the proposed method may be influenced by radar signal quality, affected by factors like breathing-induced Doppler shifts and noise.
+
+In conclusion, this thesis underscores the potential of deep learning approaches for signal translation and their practical use. The proposed method holds promise for real-world applications, such as remote health monitoring, facilitating early detection and treatment of cardiovascular conditions. It advocates for broader datasets, advanced signal processing, and improved radar systems to refine performance and reduce interference for future investigations. This research offers valuable insights for signal translation and its healthcare applications, poised to make a substantial impact on remote monitoring systems and cardiovascular care.
